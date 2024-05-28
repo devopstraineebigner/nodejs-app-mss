@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.126.158.114:9980/eliyaz/repository/nodejsrepomss/"
+    "registry": "http://43.204.229.17:9980/eliyaz/repository/nodejsrepomss/"
   },
   
   "scripts": {
